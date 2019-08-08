@@ -33,11 +33,11 @@
       <module name="springboot-mybatis-annotation (1) (sloth.zhang)" target="1.5" />
       <module name="springboot-mybatis-common" target="1.8" />
       <module name="springboot-mybatis-pull" target="1.8" />
-      <module name="springboot-send-mail" target="1.5" />
+      <module name="springboot-send-mail" target="1.8" />
       <module name="springboot-sendmail" target="1.8" />
-      <module name="springboot-swagger2" target="1.5" />
+      <module name="springboot-swagger2" target="1.8" />
       <module name="springboot-thymeleaf" target="1.8" />
-      <module name="springboot-thymeleaf-enhance" target="1.5" />
+      <module name="springboot-thymeleaf-enhance" target="1.8" />
       <module name="springmvc" target="1.5" />
       <module name="springMvcBySelf" target="1.8" />
       <module name="springMvcDataBind" target="1.7" />
