@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springMvcSelf:war">
+    <output-path>$PROJECT_DIR$/springMvcSelf/target</output-path>
+    <root id="archive" name="liughMVC-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springMvcSelf:war exploded" />
+    </root>
+  </artifact>
+</component>

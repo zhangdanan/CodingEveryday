@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springMvcBySelf" />
+    <file type="web" url="file://$PROJECT_DIR$/springMvcDataBind" />
+    <file type="web" url="file://$PROJECT_DIR$/springMvcDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/springMvcSelf" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springMvcDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springMvcBySelf/pom.xml" />
+        <option value="$PROJECT_DIR$/springMvcDataBind/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-pull/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-common/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-send-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-thymeleaf-enhance/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-data-jpa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

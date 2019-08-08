@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springMvcDataBind:war">
+    <output-path>$PROJECT_DIR$/springMvcDataBind/target</output-path>
+    <root id="archive" name="sloth.zhang-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springMvcDataBind:war exploded" />
+    </root>
+  </artifact>
+</component>
