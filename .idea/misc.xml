@@ -19,10 +19,13 @@
         <option value="$PROJECT_DIR$/springboot-mybatis-pull/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-common/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-send-mail/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-swagger2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-thymeleaf-enhance/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-send-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-data-format/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-task-scheduling/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
       </list>
     </option>
   </component>

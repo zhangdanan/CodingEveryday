@@ -33,6 +33,14 @@ public class UserRepositoryTest {
         userRepository.save(user);
     }
 
+    @Test
+    public void test(){
+
+        System.out.println(userRepository.findAll());
+    }
+
+
+
 
 
 

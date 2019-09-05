@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CodingEveryday" />
+        <module name="springboot-data-format" />
         <module name="springboot-data-jpa" />
         <module name="springboot-helloworld" />
         <module name="springboot-mybatis" />
@@ -14,8 +15,10 @@
         <module name="springboot-mybatis-annotation (1) (sloth.zhang)" />
         <module name="springboot-mybatis-common" />
         <module name="springboot-mybatis-pull" />
+        <module name="springboot-redis" />
         <module name="springboot-send-mail" />
         <module name="springboot-swagger2" />
+        <module name="springboot-task-scheduling" />
         <module name="springboot-thymeleaf" />
         <module name="springboot-thymeleaf-enhance" />
         <module name="springMvcBySelf" />
@@ -24,8 +27,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="2019-7-26" target="1.5" />
-      <module name="CodingEveryday" target="1.5" />
+      <module name="CodingEveryday" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="springboot-data-format" target="1.8" />
       <module name="springboot-data-jpa" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-mybatis" target="1.8" />
@@ -33,9 +37,12 @@
       <module name="springboot-mybatis-annotation (1) (sloth.zhang)" target="1.5" />
       <module name="springboot-mybatis-common" target="1.8" />
       <module name="springboot-mybatis-pull" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
       <module name="springboot-send-mail" target="1.8" />
+      <module name="springboot-send-mail-pull" target="1.8" />
       <module name="springboot-sendmail" target="1.8" />
       <module name="springboot-swagger2" target="1.8" />
+      <module name="springboot-task-scheduling" target="1.8" />
       <module name="springboot-thymeleaf" target="1.8" />
       <module name="springboot-thymeleaf-enhance" target="1.8" />
       <module name="springmvc" target="1.5" />
