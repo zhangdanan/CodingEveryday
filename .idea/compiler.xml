@@ -8,6 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CodingEveryday" />
         <module name="demo" />
+        <module name="demo (1)" />
+        <module name="demo (2)" />
+        <module name="demo (3)" />
+        <module name="Json" />
+        <module name="liughMVC" />
+        <module name="sloth.zhang" />
         <module name="springboot-data-format" />
         <module name="springboot-data-jpa" />
         <module name="springboot-helloworld" />
@@ -22,13 +28,16 @@
         <module name="springboot-task-scheduling" />
         <module name="springboot-thymeleaf" />
         <module name="springboot-thymeleaf-enhance" />
+        <module name="springboot-web-thymeleaf-enhance" />
         <module name="springMvcBySelf" />
         <module name="springMvcDataBind" />
+        <module name="taskscheduling" />
         <module name="Tested" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="JSONExample" target="1.8" />
       <module name="springboot-data-formats" target="1.8" />
     </bytecodeTargetLevel>
   </component>
