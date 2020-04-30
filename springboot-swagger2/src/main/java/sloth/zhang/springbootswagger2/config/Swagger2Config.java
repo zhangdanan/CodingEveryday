@@ -26,7 +26,7 @@ public class Swagger2Config {
                 .apiInfo(new ApiInfoBuilder()
                 .title("标题：用户信息管理系统——接口文档")
                 .description("描述：用于管理公司的人员信息")
-                .contact(new Contact("一只袜子",null,null))
+                .contact(new Contact("zhang" ,null,null))
                 .version("版本号：1.0")
                 .build())
                 .select()

@@ -8,6 +8,7 @@ package sloth.zhang.web;
  */
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 import sloth.zhang.entity.User;
@@ -23,6 +24,7 @@ public class UserController {
     /**
      * 打开主页
      */
+    @ResponseBody
     @GetMapping("/")
     public ModelAndView index() {
         ModelAndView mv = new ModelAndView("views/user");

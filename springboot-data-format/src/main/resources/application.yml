@@ -1,8 +1,8 @@
 spring:
   thymeleaf:
     cache: false
-    prefix: classpath:/views
     suffix: .html
+    mode: LEGACYHTML5
 
 
 
